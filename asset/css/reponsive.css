@@ -9,6 +9,12 @@
     #product_info_ctn .right .eve_items h2{
         font-size: 16px;
     }
+    /*burger.html*/
+    #burgers_ctn .left .food_ctn{
+        width: calc(100%/2);
+        padding: 10px;
+        padding-right: 0;
+    }
 }
 @media screen and (max-width: 992px) {
 
@@ -67,6 +73,15 @@
     }
     #product_info_ctn .right{
         width: 40%;
+    }
+    /*burger.html*/
+    #burgers_ctn .left .food_ctn{
+        width: calc(100%);
+        padding: 10px;
+        padding-right: 0;
+    }
+    #burgers_ctn .left{
+        width: 100%;
     }
 }
 

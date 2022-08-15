@@ -1273,6 +1273,7 @@
 #burgers_ctn .left .food_ctn {
     width: calc(100% / 3);
     padding: 10px;
+    padding-right: 0;
 }
 
 #burgers_ctn .left .food_ctn img {
