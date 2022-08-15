@@ -102,4 +102,7 @@
         max-width: 100%;
         margin-top: 30px;
     }
+    #burgers_ctn .left .food_ctn img{
+        max-width: 500px;
+    }
 }
